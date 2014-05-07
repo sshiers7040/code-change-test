@@ -4,7 +4,7 @@
 Make sure that you have signed up for [GitHub here](https://github.com/). You should use you school email account and your username should match. eg (email: jsmith1234@sohamcollege.org.uk username: jsmith1234)
 ##Step 2: Make a copy of this *repository*
 
-A repository is a type of folder on github. Making a copy of a respoistory is called **forking**. Click on the 'Fork' button at the top of the screen on the right hand side, and a copy of everything in this respoitory called **sonic-pi-lessons** will appear in your account.
+A repository is a type of folder on github. Making a copy of a respoistory is called **forking**. Click on the 'Fork' button at the top of the screen on the right hand side, and a copy of everything in this respoitory called **code-change-test** will appear in your account.
 
 ![](https://github.com/Soham-Village-College/sonic-pi-lessons/blob/master/Images/fork.png)
 
