@@ -6,7 +6,7 @@ Make sure that you have signed up for [GitHub here](https://github.com/). You sh
 
 A repository is a type of folder on github. Making a copy of a respoistory is called **forking**. Click on the 'Fork' button at the top of the screen on the right hand side, and a copy of everything in this respoitory called **sonic-pi-lessons** will appear in your account.
 
-![](Images/fork.png)
+![](https://github.com/Soham-Village-College/sonic-pi-lessons/blob/master/Images/fork.png)
 
 Now the resources for this unit have been forked to your github account page, you can find them here.
 ![](Images/forked.png)
